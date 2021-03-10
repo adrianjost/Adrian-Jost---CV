@@ -35,7 +35,7 @@
 		"base64-img": "^1.0.4",
 		"fetch-retry": "^4.1.0",
 		"firebase": "^8.2.9",
-		"firebaseui": "^4.7.3",
+		"firebaseui": "^4.8.0",
 		"isomorphic-unfetch": "^3.1.0",
 		"nuxt": "^2.15.2",
 		"v-lazy-image": "^1.4.0",
